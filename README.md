@@ -12,6 +12,7 @@ Ele ainda está em desenvolvimento portanto tanto a lista abaixo como o seu cont
 | ------ | ------ |
 | Versão | [1.0] |
 | Última Atualização | [20/05/2020] |
+| Histórico | [20/05/20],[24/05/20] |
 | Artigo| [https://fernandoportugal.com/guiaphp] |
 | Destribuído por | [https://www.fernandoportugal.com] |
 
@@ -21,7 +22,7 @@ Datas
 Escrever Arquivo
 Ler Arquivo
 Upload
-Dowload
+Download
 Imagens
 ```
 
