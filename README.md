@@ -15,6 +15,16 @@ Ele ainda está em desenvolvimento portanto tanto a lista abaixo como o seu cont
 | Artigo| [https://fernandoportugal.com/guiaphp] |
 | Destribuído por | [https://www.fernandoportugal.com] |
 
+# API
+```sh
+Datas
+Escrever Arquivo
+Ler Arquivo
+Upload
+Dowload
+Imagens
+```
+
 # Tratamento de Erro
 ```sh
 Try Catch
@@ -104,6 +114,8 @@ Tipo String
 Tipo Boleano
 Conversões
 ```
+
+
 
 
 @fernandoportugal.com
