@@ -22,7 +22,7 @@ Datas
 Escrever Arquivo
 Ler Arquivo
 Upload
-Dowload
+Download
 Imagens
 ```
 
