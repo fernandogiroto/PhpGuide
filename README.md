@@ -16,6 +16,11 @@ Ele ainda está em desenvolvimento portanto tanto a lista abaixo como o seu cont
 | Artigo| [https://fernandoportugal.com/guiaphp] |
 | Destribuído por | [https://www.fernandoportugal.com] |
 
+# FORMULÁRIOS
+```sh
+Formulários
+```
+
 # API
 ```sh
 Datas
